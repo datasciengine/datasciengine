@@ -5,10 +5,9 @@ Data Sciengineer
 ----------------
 
 * 🌍  I'm based in Izmir - Turkey
-* 🖥️  See my portfolio at [Youtube](http://youtube.com/@datasciengine)
+* 🖥️  See my channel at [Youtube](http://youtube.com/@datasciengine)
 * ✉️  You can contact me at [datasciengineers@gmail.com](mailto:datasciengineers@gmail.com)
-* 🚀  I'm currently working on [Kalybe.AI](http://kalybeai.com)
-* 🧠  I'm learning GO!
+* 🚀  I'm currently working on [NORM Digital](https://normdigital.com/)
 * 🤝  I'm open to collaborating on insteresting projects.
 * ⚡  There is no other world, there is another way of life. Go Vegan!
 
