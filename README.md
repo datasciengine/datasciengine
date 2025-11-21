@@ -7,7 +7,7 @@ Data Sciengineer
 * 🌍  I'm based in Izmir - Turkey
 * 🖥️  See my channel at [Youtube](http://youtube.com/@datasciengine)
 * ✉️  You can contact me at [datasciengineers@gmail.com](mailto:datasciengineers@gmail.com)
-* 🚀  I'm currently working on [NORM Digital](https://normdigital.com/)
+* 🚀  I'm currently working on [Vinter AI Recruitment](https://vinter.me/)
 * 🤝  I'm open to collaborating on insteresting projects.
 * ⚡  There is no other world, there is another way of life. Go Vegan!
 
